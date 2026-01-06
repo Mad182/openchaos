@@ -5,6 +5,11 @@ import { PRList } from "@/components/PRList";
 export default function Home() {
   return (
     <main className="min-h-screen flex flex-col items-center px-4 py-16">
+
+      <img src="/dickbutt.png" style={{ width: "300px" }} />
+      <br />
+      <br />
+
       <h1 className="text-4xl sm:text-5xl font-bold tracking-tight">
         OPENCHAOS.DEV
       </h1>
